@@ -1,6 +1,6 @@
 # 📚 Arrays & Strings Mastery Checklist (LeetCode)
 
-**Progress:** [ ] / 65 Complete
+**Progress:** [8] / 65 Complete
 
 ---
 

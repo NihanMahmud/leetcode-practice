@@ -5,19 +5,19 @@
 ---
 
 ## 🟢 Basic Traversal & Manipulation
-- [ ] [1 - Two Sum](https://leetcode.com/problems/two-sum/)
-- [ ] [26 - Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
-- [ ] [27 - Remove Element](https://leetcode.com/problems/remove-element/)
-- [ ] [88 - Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+- [x] [1 - Two Sum](https://leetcode.com/problems/two-sum/)
+- [x] [26 - Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- [x] [27 - Remove Element](https://leetcode.com/problems/remove-element/)
+- [x] [88 - Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 - [ ] [125 - Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
-- [ ] [169 - Majority Element](https://leetcode.com/problems/majority-element/)
-- [ ] [283 - Move Zeroes](https://leetcode.com/problems/move-zeroes/)
-- [ ] [167 - Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+- [x] [169 - Majority Element](https://leetcode.com/problems/majority-element/)
+- [x] [283 - Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+- [x] [167 - Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 
 ---
 
 ## 🟢 Two Pointers
-- [ ] [11 - Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+- [x] [11 - Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - [ ] [15 - 3Sum](https://leetcode.com/problems/3sum/)
 - [ ] [16 - 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
 - [ ] [18 - 4Sum](https://leetcode.com/problems/4sum/)

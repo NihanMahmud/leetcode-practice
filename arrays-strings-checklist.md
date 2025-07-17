@@ -1,6 +1,6 @@
 # 📚 Arrays & Strings Mastery Checklist (LeetCode)
 
-**Progress:** [8] / 65 Complete
+**Progress:** 12 / 65 Complete
 
 ---
 
@@ -22,11 +22,11 @@
 - [ ] [16 - 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
 - [ ] [18 - 4Sum](https://leetcode.com/problems/4sum/)
 - [ ] [42 - Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
-- [ ] [121 - Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-- [ ] [122 - Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
-- [ ] [344 - Reverse String](https://leetcode.com/problems/reverse-string/)
+- [x] [121 - Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [x] [122 - Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+- [x] [344 - Reverse String](https://leetcode.com/problems/reverse-string/)
 - [ ] [345 - Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
-- [ ] [977 - Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+- [x] [977 - Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 
 ---
 
